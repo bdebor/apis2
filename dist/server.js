@@ -1354,16 +1354,7 @@ module.exports =
 							"type": "vcard-person",
 							"vcard": {
 								"id": "Société",
-								"name": "Pierre Coeroli",
-								"title": "Coaching de management",
-								"phone": "06 43 08 94 99"
-							}
-						},
-						{
-							"type": "vcard-person",
-							"vcard": {
-								"id": "Société",
-								"name": "Pierre Coeroli",
+								"name": "Pierre Coerolipp",
 								"title": "Coaching de management",
 								"phone": "06 43 08 94 99"
 							}
